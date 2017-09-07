@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week 1-2 Landscape (Taos Ski Valley)", "Assembly-CSharp.csproj", "{31805942-5937-C2C6-F28E-4E1D02FCD724}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week 1-2 Landscape (Taos Ski Valley)", "Assembly-CSharp-firstpass.csproj", "{CFD1C476-CA97-6039-D201-68336F1538D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week 1-2 Landscape (Taos Ski Valley)", "Assembly-CSharp-Editor.csproj", "{D47CCFE5-7711-56ED-1EA2-6F1D6B9451BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31805942-5937-C2C6-F28E-4E1D02FCD724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31805942-5937-C2C6-F28E-4E1D02FCD724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31805942-5937-C2C6-F28E-4E1D02FCD724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31805942-5937-C2C6-F28E-4E1D02FCD724}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFD1C476-CA97-6039-D201-68336F1538D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFD1C476-CA97-6039-D201-68336F1538D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFD1C476-CA97-6039-D201-68336F1538D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFD1C476-CA97-6039-D201-68336F1538D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D47CCFE5-7711-56ED-1EA2-6F1D6B9451BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D47CCFE5-7711-56ED-1EA2-6F1D6B9451BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D47CCFE5-7711-56ED-1EA2-6F1D6B9451BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D47CCFE5-7711-56ED-1EA2-6F1D6B9451BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
